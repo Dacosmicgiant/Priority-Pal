@@ -18,10 +18,10 @@ PriorityPal is an intelligent web application that creates personalized study sc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/studysync.git
+git clone https://github.com/Dacosmicgiant/priority-pal.git
 
 # Install dependencies
-cd studysync
+cd prioritypal
 npm install
 
 # Start development server
